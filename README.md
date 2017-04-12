@@ -1,2 +1,3 @@
 # insert-json-to-mysql
-Simple Insert Json To Mysql
+Replace Mysqli Connect on line 46 (index.php) <br>
+Replace JSON on line 49 (index.php) <br>
